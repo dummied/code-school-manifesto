@@ -73,8 +73,8 @@ When adding signatures, please use the following patterns:
 * *[Matthew Keas](http://twitter.com/matthiasak)*, Houston, TX - Thursday, April 4th, 2014
 * *[Jesse Wolgamott](http://twitter.com/jwo)*, Houston, TX - Friday, April 4th, 2014
 
-<!-- If you are the first person to sign this as an individual not associated with a company, please delete this line and uncomment the next line. See signature format details in the previous comment. -->
-<!-- ### Individual Signatures -->
+### Individual Signatures
+* *[Robert Pearce](https://twitter.com/RobertWPearce)*, Charleston, SC - Tuesday, April 8th, 2014
 
 ## Contributing
 
