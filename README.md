@@ -72,6 +72,7 @@ When adding signatures, please use the following patterns:
 * *[Sarah Lodato](http://twitter.com/sarahbethlodato)*, Atlanta, GA - Sunday, March 30th, 2014
 * *[Matthew Keas](http://twitter.com/matthiasak)*, Houston, TX - Thursday, April 4th, 2014
 * *[Jesse Wolgamott](http://twitter.com/jwo)*, Houston, TX - Friday, April 4th, 2014
+* *[Joe Tamburro](http://twitter.com/JoeyTamburro)*, Greenville, SC - Wednesday, April 9th, 2014
 
 ### Individual Signatures
 * *[Robert Pearce](https://twitter.com/RobertWPearce)*, Charleston, SC - Tuesday, April 8th, 2014
