@@ -48,12 +48,12 @@ When adding signatures, please use the following patterns:
   ### [Moonshine School](http://your-schools-domain.com)
 
   For a company's employee (a signature under a company's name):
-  * *[Alyssa P. Hacker](http://alyssa-p-hackers-domain.com)*, City, State - Monday, March 17th, 2014
+  * *[Alyssa P. Hacker](http://alyssa-p-hackers-domain.com) *- City, State - March 17th, 2014
   
   For an individual (a signature not associated with a company)
   ### Individual Signatures
   ...
-  * *[Alyssa P. Hacker](http://alyssa-p-hackers-domain.com)*, City, State - Monday, March 17th, 2014
+  * *[Alyssa P. Hacker](http://alyssa-p-hackers-domain.com) *- City, State - March 17th, 2014
 
 -->
 
