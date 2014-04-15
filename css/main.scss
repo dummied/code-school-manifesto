@@ -119,6 +119,10 @@ h2 {
     margin: 2.7rem 0 .8rem;
 }
 
+h3 {
+    margin-top: 2.2rem;
+}
+
 ul {
     margin: 0;
 }
@@ -126,6 +130,14 @@ ul {
 li {
     margin: 0 0 .3rem 0;
     list-style-type: none;
+
+    @media only screen and (max-width: 40.063em) {
+        margin-bottom: 1.0rem;
+
+        em {
+            display: block;
+        }
+    }
 }
 
 .version {
