@@ -10,8 +10,6 @@ We promise that our students will always be first and foremost.
 
 We promise to accept into our schools only those students for whom the class will be of obvious and likely benefit when measured against the cost in time, finances, and beyond.
 
-We promise to, with kindness and grace, not accept those students for whom the cost of time and tuition outweighs the benefit of the class.
-
 We promise to set expectations that are reasonable and fair, including workload during the course, qualifications to be gained, and job opportunities following graduation. 
 
 We promise to promote neither inflated nor deflated graduation rates, dropout rates, failure rates, job placement rates, graduate salaries, and long-term prospects. 
