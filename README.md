@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document serves as a standard to which a code school may adhere. It is not a detailed explanation of potential implementation, but rather a specification broad enough that each school can fulfill in its own way. It reflects the authors' hope that rival schools will become allies in a singular mission to serve, teach, enrich, and support the newcomers to the craft of programming who have put themselves in our charge.
+This document serves as a standard to which a code school may adhere. It broadly outlines the philosophy, values, and practices that should be shared by all schools. It reflects the authors' hope that all code schools will become allies in a singular mission to serve, teach, enrich, and support the newcomers to the craft of programming who have put themselves in our charge.
 
 ## The Promises
 
@@ -28,7 +28,7 @@ We promise to have zero tolerance for harassment of any kind, as established in 
 
 We promise to create a safe environment for all students and staff. To quote [Lambda Jam's Diversity Policy](http://www.lambdajam.com/policies.html), this specifically means creating a safe environment for "people of any gender identity or expression, race, ethnicity, size, nationality, sexual orientation, ability level, neurotype, religion, elder status, family structure, culture, subculture, political opinion, identity, and self-identification."
 
-We promise to collaborate, whenever possible, with any school for the benefit of our students.
+We promise to collaborate with any school for the benefit of our students, whenever possible.
 
 We promise to offer a legal agreement that protects both our students and our school.
 
