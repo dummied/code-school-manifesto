@@ -59,21 +59,21 @@ When adding signatures, please use the following patterns:
 
 ### [The Iron Yard](http://theironyard.com)
 
-* *[Mason Stewart](http://twitter.com/masondesu)*, Greenville, SC - Monday, March 17th, 2014
-* *[Eric Dodds](http://twitter.com/ericdodds)*, Greenville, SC - Sunday, March 30th, 2014
-* *[Jo Albright](http://twitter.com/joalbright)*, Atlanta, GA - Saturday, March 29th, 2014
-* *[Roy Schmidt](http://twitter.com/cleasto)*, Greenville, SC - Saturday, March 29th, 2014
-* *[Sally Kingston](http://twitter.com/houserulessally)*, Charleston, SC - Sunday, March 30th, 2014
-* *[Calvin Webster](http://twitter.com/calweb)*, Charleston, SC - Sunday, March 30th, 2014
-* *[Nick Bucciarelli](http://twitter.com/n_bucciarelli)*, Charleston, SC - Sunday, March 30th, 2014
-* *[Shelby Switzer](http://twitter.com/switzerly)*, Atlanta, GA - Saturday, March 29th, 2014
-* *[Sarah Lodato](http://twitter.com/sarahbethlodato)*, Atlanta, GA - Sunday, March 30th, 2014
-* *[Matthew Keas](http://twitter.com/matthiasak)*, Houston, TX - Thursday, April 4th, 2014
-* *[Jesse Wolgamott](http://twitter.com/jwo)*, Houston, TX - Friday, April 4th, 2014
-* *[Joe Tamburro](http://twitter.com/JoeyTamburro)*, Greenville, SC - Wednesday, April 9th, 2014
+* *[Mason Stewart](http://twitter.com/masondesu) *- Greenville, SC - March 17th, 2014
+* *[Eric Dodds](http://twitter.com/ericdodds) *- Greenville, SC - March 30th, 2014
+* *[Jo Albright](http://twitter.com/joalbright) *- Atlanta, GA - March 29th, 2014
+* *[Roy Schmidt](http://twitter.com/cleasto) *- Greenville, SC - March 29th, 2014
+* *[Sally Kingston](http://twitter.com/houserulessally) *- Charleston, SC - March 30th, 2014
+* *[Calvin Webster](http://twitter.com/calweb) *- Charleston, SC - March 30th, 2014
+* *[Nick Bucciarelli](http://twitter.com/n_bucciarelli) *- Charleston, SC - March 30th, 2014
+* *[Shelby Switzer](http://twitter.com/switzerly) *- Atlanta, GA - March 29th, 2014
+* *[Sarah Lodato](http://twitter.com/sarahbethlodato) *- Atlanta, GA - March 30th, 2014
+* *[Matthew Keas](http://twitter.com/matthiasak) *- Houston, TX - April 4th, 2014
+* *[Jesse Wolgamott](http://twitter.com/jwo) *- Houston, TX - April 4th, 2014
+* *[Joe Tamburro](http://twitter.com/JoeyTamburro) *- Greenville, SC - April 9th, 2014
 
 ### Individual Signatures
-* *[Robert Pearce](https://twitter.com/RobertWPearce)*, Charleston, SC - Tuesday, April 8th, 2014
+* *[Robert Pearce](https://twitter.com/RobertWPearce) *- Charleston, SC - April 8th, 2014
 
 ## Contributing
 
