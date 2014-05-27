@@ -72,6 +72,7 @@ When adding signatures, please use the following patterns:
 * *[Jesse Wolgamott](http://twitter.com/jwo) *- Houston, TX - April 4th, 2014
 * *[Joe Tamburro](http://twitter.com/JoeyTamburro) *- Greenville, SC - April 9th, 2014
 * *[John Saddington](http://twitter.com/saddington) *- Atlanta, GA - April 21st, 2014
+* *[Tim Whitacre](http://twitter.com/timwco) *- Atlanta, GA - May 22nd, 2014
 
 ### Individual Signatures
 * *[Robert Pearce](https://twitter.com/RobertWPearce) *- Charleston, SC - April 8th, 2014
