@@ -74,6 +74,7 @@ When adding signatures, please use the following patterns:
 * *[John Saddington](http://twitter.com/saddington) *- Atlanta, GA - April 21st, 2014
 * *[Tim Whitacre](http://twitter.com/timwco) *- Atlanta, GA - May 22nd, 2014
 * *[Julia Elman](http://twitter.com/juliaelman) *- Durham, NC - May 28th, 2014
+* *[Brit Butler](http://twitter.com/redline6561) *- Atlanta, GA - January 2nd, 2015
 
 ### Individual Signatures
 * *[Robert Pearce](https://twitter.com/RobertWPearce) *- Charleston, SC - April 8th, 2014
