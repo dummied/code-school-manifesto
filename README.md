@@ -10,9 +10,9 @@ We promise that our students will always be first and foremost.
 
 We promise to accept into our schools only those students for whom the class will be of obvious and likely benefit when measured against the cost in time, finances, and beyond.
 
-We promise to set expectations that are reasonable and fair, including workload during the course, qualifications to be gained, and job opportunities following graduation. 
+We promise to set expectations that are reasonable and fair, including workload during the course, qualifications to be gained, and job opportunities following graduation.
 
-We promise to promote neither inflated nor deflated graduation rates, dropout rates, failure rates, job placement rates, graduate salaries, and long-term prospects. 
+We promise to promote neither inflated nor deflated graduation rates, dropout rates, failure rates, job placement rates, graduate salaries, and long-term prospects.
 
 We promise to make our instructors available to contact by the public, and to make their career experience publicly known.
 
@@ -38,10 +38,10 @@ We promise to celebrate other schools who are known to follow these guidelines, 
 
 We promise to hold ourselves and each other to these standards, to accept redress when due, and to correct ourselves humbly.
 
-If any of the individuals or organizations signed below falter in any of these points, we invite public accountability, and we promise to right our wrongs. 
+If any of the individuals or organizations signed below falter in any of these points, we invite public accountability, and we promise to right our wrongs.
 
 ## Signatures
-<!-- 
+<!--
 When adding signatures, please use the following patterns:
 
   For company names:
@@ -49,7 +49,7 @@ When adding signatures, please use the following patterns:
 
   For a company's employee (a signature under a company's name):
   * *[Alyssa P. Hacker](http://alyssa-p-hackers-domain.com) *- City, State - March 17th, 2014
-  
+
   For an individual (a signature not associated with a company)
   ### Individual Signatures
   ...
@@ -75,13 +75,14 @@ When adding signatures, please use the following patterns:
 * *[Tim Whitacre](http://twitter.com/timwco) *- Atlanta, GA - May 22nd, 2014
 * *[Julia Elman](http://twitter.com/juliaelman) *- Durham, NC - May 28th, 2014
 * *[Brit Butler](http://twitter.com/redline6561) *- Atlanta, GA - January 2nd, 2015
+* *[Chris Vannoy](http://twitter.com/chris_vannoy) *- Indianapolis, IN - May 11, 2015
 
 ### Individual Signatures
 * *[Robert Pearce](https://twitter.com/RobertWPearce) *- Charleston, SC - April 8th, 2014
 
 ## Contributing
 
-This document is open sourced at [https://github.com/masondesu/code-school-manifesto](https://github.com/masondesu/code-school-manifesto). 
+This document is open sourced at [https://github.com/masondesu/code-school-manifesto](https://github.com/masondesu/code-school-manifesto).
 
 If you would like to edit the document, or add your company or signature, please submit a pull request. A pull request will be generated automatically by using GitHub's web-based editor. You can [open this document directly in the editor](https://github.com/masondesu/code-school-manifesto/edit/master/README.md).
 
